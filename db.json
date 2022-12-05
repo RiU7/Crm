@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "ricardo URDANETA",
+      "empresa": "ricardo",
+      "email": "ricardo@mail.com",
+      "telefono": "342551234",
+      "notas": "comentario",
+      "id": 1
+    },
+    {
+      "nombre": "Jose",
+      "empresa": "Jose y sus perrito",
+      "email": "jose@jose.com",
+      "telefono": "3243545",
+      "notas": "jose es gay",
+      "id": 3
+    },
+    {
+      "nombre": "ricardo",
+      "empresa": "ricardo",
+      "email": "ricardo@mail.com",
+      "telefono": "342551234",
+      "notas": "comentario",
+      "id": 4
+    }
+  ]
+}
